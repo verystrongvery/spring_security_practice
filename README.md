@@ -1,7 +1,7 @@
 # 프로젝트 요약
-1. Spring Security, Google OAuth2, JWT를 활용하여 소셜 인증 기능 구현
-2. Docker 환경에서 MariaDB 환경 구축
-3. Vue와 Vue 라이브러리(vuetify, pinia 등)를 활용하여 화면단 구현
+1. 소셜 인증 로그인 기능 구현(Spring Security, Google OAuth2, JWT 활용)
+2. MariaDB 환경 구축(Docker 활용)
+3. 로그인 화면단 구현(vuetify, pinia 등 Vue 라이브러리 활용)
 
 # 기술스택
 - Spring Boot 2
